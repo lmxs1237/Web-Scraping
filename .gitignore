@@ -1,0 +1,5 @@
+# ignore check file
+**/.DS_Store
+**/.RData
+**/.Rhistory
+**.ipynb_checkpoints/
