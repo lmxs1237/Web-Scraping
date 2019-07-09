@@ -16,3 +16,5 @@ pip install -r requirements.txt
 -- leasebreak_scrape.py: Using Selenium scrape data from [leasebreak](https://www.leasebreak.com/advanced-search)  
 -- renthop_scrape.ipynb: Using Beautiful Soup scrape data from [renthop](https://www.renthop.com/?gclid=EAIaIQobChMIpby8q8Gl4wIVmP_jBx0KlAelEAAYASAAEgLhd_D_BwE)  
 -- test file
+* Data Clean and Visualization.ipynb
+* requirements.txt
